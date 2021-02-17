@@ -2,7 +2,6 @@ from database import Database
 import socket 
 import sys
 from io import StringIO
-import re
 
 def trexa(receiver):
     good = False
