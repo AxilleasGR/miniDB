@@ -12,3 +12,4 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sok:
         sok.close()
         print("Goodbye")
         exit()
+        exit()1
